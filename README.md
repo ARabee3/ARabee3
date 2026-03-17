@@ -6,11 +6,15 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,angular,vue,laravel,nest,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,angular,vue,laravel,nest" />
   </a>
   <br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma" />
+    </a>
+  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
   </a>
    <br>
     <a href="https://skillicons.dev">
