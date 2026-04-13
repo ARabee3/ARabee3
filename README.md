@@ -6,7 +6,7 @@
 
 - Mastering Angular 21 and Node.js (Nest, Express).
 
-- Exploring Vue.js and learning more abour frontend world.
+- Exploring PHP Laravel.
 
 ### 🏆 Competitive Programming:
 - ECPC Participant, Finalist and Coach.
