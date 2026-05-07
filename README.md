@@ -4,9 +4,9 @@
 
 - Learning and Applying new Technologies at ITI - Open Source Track
 
-- Mastering Angular 21 and Node.js (Nest, Express).
+- Mastering React and Laravel.
 
-- Exploring PHP Laravel & React.
+- Exploring Golang.
 
 ### 🏆 Competitive Programming:
 - ECPC Participant, Finalist and Coach.
