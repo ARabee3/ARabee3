@@ -16,13 +16,6 @@
 - Check out my <a href="https://leetcode.com/u/arabeea7104/" target="_blank">LeetCode</a> Profile for my latest problem-solving activity.
 
 ---
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARabee3&show_icons=true&theme=tokyonight" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARabee3&layout=compact&theme=tokyonight" alt="Languages Card" />
-</p>
-
----
 
 ### 🛠️ My Tech Stack
 <p align="center">
@@ -31,11 +24,11 @@
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,angular,vue,laravel,nest" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,angular,vue,laravel,nest,react" />
   </a>
   <br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,mui" />
     </a>
   <br>
   <a href="https://skillicons.dev">
