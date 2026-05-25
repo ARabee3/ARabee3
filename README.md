@@ -4,7 +4,7 @@
 
 - Learning and Applying new Technologies at ITI - Open Source Track
 
-- Mastering React and Laravel.
+- Mastering React, Nest and Laravel.
 
 - Exploring Golang.
 
